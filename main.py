@@ -1,8 +1,9 @@
 import discord
 from discord.ext import commands
 import time
+import os
 
-TOKEN = "TOKEN_HERE"
+TOKEN = os.getenv("TOKEN")
 
 # 🔒 Приватный канал заявок
 MOD_CHANNEL_ID = 1507380201057947678
