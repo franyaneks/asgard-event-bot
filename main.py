@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import time
 
-TOKEN = "MTUwNzMxNzI0NzA4Mzk0MjAxMA.G8FQt1.rYsqcHkY4ZjJ9QgSvP4zximz6W5KCUPtzTq22Y"
+TOKEN = "TOKEN_HERE"
 
 # 🔒 Приватный канал заявок
 MOD_CHANNEL_ID = 1507380201057947678
